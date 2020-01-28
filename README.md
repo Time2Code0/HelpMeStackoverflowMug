@@ -1,5 +1,7 @@
 Just a mug.
 
+![Image of Yaktocat](https://raw.githubusercontent.com/HeatInYoureFace/HelpMeStackoverflowMug/master/Mug%20Result.png)
+
 HOW TO USE
 
 1. Go to youre favorit custom mug printig site. I used https://www.spreadshirt.com for the example but you can use every site you want.
